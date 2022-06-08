@@ -1,4 +1,3 @@
-# git-essentials
+# Git Essentials / git For Everyone
 
-Some stuff in here
-
+> This course is to teach you how to use veryday git.
